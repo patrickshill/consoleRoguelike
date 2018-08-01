@@ -1,0 +1,10 @@
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\bin\Debug\netcoreapp2.0\RogueThing.deps.json
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\bin\Debug\netcoreapp2.0\RogueThing.runtimeconfig.json
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\bin\Debug\netcoreapp2.0\RogueThing.runtimeconfig.dev.json
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\bin\Debug\netcoreapp2.0\RogueThing.dll
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\bin\Debug\netcoreapp2.0\RogueThing.pdb
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\obj\Debug\netcoreapp2.0\RogueThing.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\obj\Debug\netcoreapp2.0\RogueThing.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\obj\Debug\netcoreapp2.0\RogueThing.AssemblyInfo.cs
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\obj\Debug\netcoreapp2.0\RogueThing.dll
+C:\Users\Patrick\Documents\CodingDojo\C#\RogueThing\obj\Debug\netcoreapp2.0\RogueThing.pdb
